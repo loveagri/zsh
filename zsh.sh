@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+#https://wiki.archlinux.org/index.php/Zsh_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29#.E5.BD.A9.E8.89.B2
 #https://blog.csdn.net/qq_35753140/article/details/79551560
 
 
