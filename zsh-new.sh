@@ -40,3 +40,5 @@ echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' >> ~/.zshrc
 source ~/.zshrc
 
 #Start a new terminal session.
+
+#如果出现autoload命令找不到,那不是问题，重启一下终端就好了
