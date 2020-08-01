@@ -1,1 +1,1 @@
-# linux-shell-skill
+# linux install zsh
