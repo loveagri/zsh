@@ -13,5 +13,4 @@ cd
 
 wget -O $HOME/.incr-0.2.zsh https://mimosa-pudica.net/src/incr-0.2.zsh
 
-source $HOME/.incr-0.2.zsh
 
