@@ -11,7 +11,7 @@ echo success
 
 cd
 
-wget https://mimosa-pudica.net/src/incr-0.2.zsh
+wget -O $HOME/.incr-0.2.zsh https://mimosa-pudica.net/src/incr-0.2.zsh
 
-source incr*.zsh
+source $HOME/.incr-0.2.zsh
 
