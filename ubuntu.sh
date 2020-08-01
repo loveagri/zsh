@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # install zsh
-sudo apt install zsh
+sudo apt install wget git vim zsh
 
 # check version
 zsh --version
