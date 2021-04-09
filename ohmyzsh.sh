@@ -13,4 +13,6 @@ cd
 
 wget -O $HOME/.incr-0.2.zsh https://mimosa-pudica.net/src/incr-0.2.zsh
 
+echo 'export LAMBDA_MOD_N_DIR_LEVELS=10' >> ./zshrc
+
 
