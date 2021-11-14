@@ -8,4 +8,5 @@ chsh -s $(which zsh)
 
 echo $SHELL
 
-sh -c "$(wget https://sync.dotohi.com/docker/install.sh -O -)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
